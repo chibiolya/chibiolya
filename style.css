@@ -1,6 +1,12 @@
-body {
+.index {
   background-color: #FFA07A;
 }
 li {
   margin: 5px;
+}
+.idea {
+  background-color: #FFFACD;
+}
+.passport { 
+  background-color: #B0C4DE;
 }
