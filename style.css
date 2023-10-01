@@ -15,3 +15,9 @@ li {
 .proekt {
   margin: 10px;
 }
+.myproekt {
+  margin: 10px;
+  width: 50%;
+  border-radius: 10px;
+  padding: 5px;
+}
