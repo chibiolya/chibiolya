@@ -3,6 +3,8 @@
 }
 li {
   margin: 5px;
+  width: 100%;
+  border-radius: 5px;
 }
 .idea {
   background-color: #FFFACD;
