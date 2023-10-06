@@ -1,5 +1,7 @@
 .index {
   background-color: #FFA07A;
+  display: flex;
+	justify-content: center;
 }
 li {
   margin: 5px;
