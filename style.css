@@ -26,3 +26,7 @@ li {
 .relevate {
   background-color: #DB7093
 }
+.pupsik {
+  display: flex;
+  justify-content: center;
+}
