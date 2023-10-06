@@ -5,9 +5,9 @@
 }
 li {
   margin: 5px;
-  width: 100%;
   border-radius: 5px;
   align: center;
+  display: inline-flex;
 }
 .idea {
   background-color: #FFFACD;
