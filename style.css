@@ -14,8 +14,6 @@ li {
 }
 .passport { 
   background-color: #B0C4DE;
-  display: flex;
-  justify-content: center;
 }
 .parent {
   margin: 10px;
